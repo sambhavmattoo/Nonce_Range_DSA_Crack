@@ -1,0 +1,1 @@
+I used Python's json library to parse the json file.
